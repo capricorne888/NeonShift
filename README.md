@@ -25,7 +25,12 @@ Check out the [Demo Page](http://checkthese.com/demo/NeonShift/) to see NeonShif
    Add the JavaScript file to your HTML document.
 
    ```html
-   <script src="[path/to/neonshift.js](http://kikurl.com/NeonShift)"></script>
+   <script src="[path/to/neonshift.js]"></script>
+   ```
+   or
+   Just use this url src that point to this repository.
+      ```html
+   <script src="http://kikurl.com/NeonShift"></script>
    ```
 
 ## Usage
