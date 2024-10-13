@@ -14,7 +14,7 @@ NeonShift is a lightweight JavaScript library that enables seamless toggling bet
    Clone or download the NeonShift repository from GitHub.
 
    ```bash
-   git clone https://github.com/yourusername/neonshift.git
+   git clone https://github.com/capricorne888/neonshift.git
    ```
 
 2. **Include in Your Project:**
