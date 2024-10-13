@@ -43,4 +43,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - Inspired by vibrant neon themes.
-- Special thanks to all contributors who have helped improve this project.
+- Special thanks to all contributors who have helped or will help improve this project.
