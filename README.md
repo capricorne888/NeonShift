@@ -1,7 +1,4 @@
 # NeonShift
-NeonShift is a JavaScript library designed to enhance user experience on web pages by allowing seamless transitions between day and night modes. With its vibrant neon color palette, NeonShift not only provides aesthetic appeal but also ensures that users can easily switch themes according to their preferences.
-
-# NeonShift
 
 NeonShift is a lightweight JavaScript library that enables seamless toggling between day and night modes on web pages. With vibrant neon colors, this script enhances user experience by providing an aesthetically pleasing theme switcher.
 
