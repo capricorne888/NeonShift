@@ -27,19 +27,40 @@ Check out the [Demo Page](http://checkthese.com/demo/NeonShift/) to see NeonShif
    ```html
    <script src="[path/to/neonshift.js]"></script>
    ```
-   or
-   Just use this url src that point to this repository.
-      ```html
+   or use the URL pointing to this repository:
+   
+   ```html
    <script src="http://kikurl.com/NeonShift"></script>
    ```
 
 ## Usage
 
+### Code Explanation
+
+1. **Creating the Toggle Button:**
+   - The script starts by creating a button element that will be used to switch between day and night modes.
+   - The button is styled to appear fixed at the top-right corner of the webpage, making it easily accessible.
+
+2. **Injecting CSS Styles:**
+   - A `<style>` element is added to the document to define styles for both day and night modes.
+   - In night mode, different elements like text, links, headers, and containers are styled with neon colors for a vibrant look.
+
+3. **Loading and Applying the Current Theme:**
+   - The script checks if a theme preference (day or night) is saved in the browser's local storage.
+   - If a preference is found, it applies that theme when the page loads. This ensures that users see their preferred theme automatically.
+
+4. **Toggling Themes:**
+   - An event listener is attached to the toggle button. When clicked, it switches between day and night modes.
+   - The button's icon changes (sun or moon) based on the current mode.
+   - The new theme preference is saved in local storage so that it persists across page reloads.
+
+### How to Use
+
 1. **Initialize NeonShift:**
    Simply include the script in your HTML file, and it will automatically add a toggle button to your page.
 
 2. **Customize Styles:**
-   Modify the CSS within the script to customize the appearance of day and night modes according to your preference.
+   You can modify the CSS within the script to change how day and night modes look on your site.
 
 ## Contributing
 
