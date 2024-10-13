@@ -8,6 +8,10 @@ NeonShift is a lightweight JavaScript library that enables seamless toggling bet
 - **Neon Colors:** Enjoy vibrant neon color themes for text and backgrounds.
 - **Persistent Theme:** Remembers the user's theme preference using local storage.
 
+## Demo
+
+Check out the [Demo Page](http://checkthese.com/demo/NeonShift/) to see NeonShift in action!
+
 ## Installation
 
 1. **Download the Script:**
@@ -21,7 +25,7 @@ NeonShift is a lightweight JavaScript library that enables seamless toggling bet
    Add the JavaScript file to your HTML document.
 
    ```html
-   <script src="path/to/neonshift.js"></script>
+   <script src="[path/to/neonshift.js](http://kikurl.com/NeonShift)"></script>
    ```
 
 ## Usage
