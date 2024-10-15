@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="http://checkthese.com/img/IMG_0160.PNG?2" alt="Capricorne888" width="200" height="200">
+</p>
+
 # NeonShift
 
 NeonShift is a lightweight JavaScript library that enables seamless toggling between day and night modes on web pages. With vibrant neon colors, this script enhances user experience by providing an aesthetically pleasing theme switcher.
